@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="800"
+   height="600"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Actividades.svg"
+   inkscape:export-filename="C:\Users\David Zahid\Documents\Noveno Semestre\Proyecto Final de Carrera II\Proyecto Objeto de Aprendizaje\Objeto de Aprendizaje\images\Contenido.png"
+   inkscape:export-xdpi="85.578445"
+   inkscape:export-ydpi="85.578445">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="0.39333334"
+     inkscape:cx="851.72761"
+     inkscape:cy="406.43404"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true" />
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path5880"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5874"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient5864"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop5866" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4507">
+      <feGaussianBlur
+         id="feGaussianBlur4509"
+         stdDeviation="6.9959913" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4144">
+      <g
+         id="g4146"
+         transform="translate(-2.6965936,18.876156)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4148"
+           d="m 541.05321,870.45998 0,103.71017 99.97284,0 z"
+           style="fill:#ffffff;stroke:#6893ff;stroke-width:1.47000551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <rect
+           transform="matrix(0.71958764,-0.69440163,0.69440163,0.71958764,0,0)"
+           y="1001.7446"
+           x="-211.95972"
+           height="144.1458"
+           width="238.44891"
+           id="rect4150"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#6893ff;stroke-width:1.93685853;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-452.36218)"
+     id="layer1">
+    <rect
+       width="838.53772"
+       height="629.96631"
+       x="-8.5545874"
+       y="446.95047"
+       id="rect3130"
+       style="color:#000000;fill:#3498db;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.03368425;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <g
+       transform="translate(-7.1428571,-35.714286)"
+       id="text3098"
+       style="font-size:54.25906372px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans" />
+    <text
+       x="270.47409"
+       y="733.45074"
+       id="text4577"
+       xml:space="preserve"
+       style="font-size:13.80165291px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Calibri"> </text>
+    <flowRoot
+       transform="translate(0,452.36218)"
+       id="flowRoot4777"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular"><flowRegion
+         id="flowRegion4779"><rect
+           width="272.74118"
+           height="175.76654"
+           x="125.25892"
+           y="353.52277"
+           id="rect4781"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4783" /></flowRoot>    <text
+       x="111.11678"
+       y="818.00677"
+       id="text4793"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular"
+       sodipodi:linespacing="125%"><tspan
+         x="818.00677"
+         y="111.11678"
+         id="tspan4795" /></text>
+    <text
+       x="258.91797"
+       y="513.49347"
+       id="text4573-9"
+       xml:space="preserve"
+       style="font-size:66.00758362px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial"><tspan
+         id="tspan4589-3"
+         style="font-size:66.00758362px;fill:#ffffff;fill-opacity:1;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular" /></text>
+    <g
+       transform="translate(77.851012,699.8954)"
+       id="g4952"
+       style="fill:#ffffff;fill-opacity:1">
+      <text
+         x="-23.541332"
+         y="-118.78222"
+         id="text4573"
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:none;fill-opacity:1;font-family:Arial"><tspan
+           id="tspan4589"
+           style="font-size:36px;fill:none;fill-opacity:1;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular">&gt; ¿Qué es un procesador de textos? </tspan></text>
+      <text
+         x="-22.853773"
+         y="-75.65818"
+         id="text4573-1"
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:none;fill-opacity:1;font-family:Arial"><tspan
+           id="tspan4589-8"
+           style="font-size:36px;fill:none;fill-opacity:1;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular">&gt; Área de trabajo y Barras de herramientas</tspan><tspan
+           id="tspan4696"
+           style="font-size:36px;fill:none;fill-opacity:1;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular" /></text>
+      <text
+         x="-23.533955"
+         y="-33.542233"
+         id="text4573-1-9"
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:none;fill-opacity:1;font-family:Arial"><tspan
+           id="tspan4589-8-2"
+           style="font-size:36px;fill:none;fill-opacity:1;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular">&gt; Estructuración de documentos</tspan></text>
+      <text
+         x="-22.145018"
+         y="-177.41054"
+         id="text4573-19"
+         xml:space="preserve"
+         style="font-size:74.07224274px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial"><tspan
+           id="tspan4589-86"
+           style="font-size:74.07224274px;fill:#ffffff;fill-opacity:1;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular">Ejemplos</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bdc3c7;stroke-width:20.10099999999999900;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:40.50000000000000000;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:10.01000047000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4152"
+       width="250.78189"
+       height="232.80463"
+       x="500.66818"
+       y="762.92847" />
+    <text
+       xml:space="preserve"
+       style="font-size:201.54768372px;font-style:normal;font-weight:normal;line-height:517.99993515%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;font-family:Bariol Regular;-inkscape-font-specification:Bariol Regular"
+       x="548.2655"
+       y="949.60907"
+       id="text3085"
+       sodipodi:linespacing="517.99994%"><tspan
+         sodipodi:role="line"
+         id="tspan3087"
+         x="548.2655"
+         y="949.60907"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold">A</tspan></text>
+    <g
+       id="g3132"
+       transform="matrix(1.2976929,0,0,1.6435833,573.95529,-1065.594)"
+       style="fill:#008080">
+      <path
+         transform="translate(0,452.36218)"
+         inkscape:connector-curvature="0"
+         id="path3108"
+         d="m 52.118644,678.81356 61.016946,0"
+         style="fill:#008080;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(0,452.36218)"
+         inkscape:connector-curvature="0"
+         id="path3112"
+         d="m 82.627118,678.81356 0,97.88135"
+         style="fill:#008080;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3108-1"
+         d="m 54.661018,1230.3283 61.016942,0"
+         style="fill:#008080;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
